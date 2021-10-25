@@ -1,1 +1,26 @@
+body {
+    font-family: 'Open Sans, sans-serif';
+    font-weight: 300;
+    background-image: linear-gradient(to bottom right, #00F490, #00B8C9);
+}
+h1 {
+    font-family: 'Abril Fatface, cursive';
+  
+}
+.jumbotron {
+    background-color: rgba(95, 158, 160, 0);
+}
+.drop-shadow {
+    text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.281);
+}
+.lead {
+    color: white;
+    font-size: 1.5rem;
+}
+.btn-outline-light {
+    border-color: white;
+}
 
+.btn-outline-light:hover {
+    background-color: rgba(255, 255, 255, 0.459);
+}
